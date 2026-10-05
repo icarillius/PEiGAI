@@ -1,0 +1,13 @@
+[520:10432:1005/104318.686:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[520:28700:1005/104318.823:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[520:10432:1005/104318.911:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[28292:32472:1005/104326.004:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-5843E50D1D04A30EAA6F35B1F5937530 will be ignored
+[29744:27500:1005/104326.457:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 6-EC8AE68C37FF1A2DC762CF50F7AFC8D2 will be ignored
+[520:30472:1005/110003.645:ERROR:dns_config_service.cc(273)] DNS config watch failed.
+[29412:30028:1005/110003.645:ERROR:dns_config_service.cc(273)] DNS config watch failed.
+[29412:27668:1005/110527.516:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[29412:27668:1005/110527.548:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[29412:27668:1005/110536.224:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[29412:27668:1005/110545.122:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[520:10432:1005/130252.398:ERROR:device_event_log_impl.cc(196)] [13:02:52.361] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[520:10432:1005/144140.613:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

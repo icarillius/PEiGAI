@@ -1,0 +1,48 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/ig23/AppData/Local/Development/PEiGAI/Content/Blueprint/AI/AIC_AIActorController.uasset",
+				"C:/Users/ig23/AppData/Local/Development/PEiGAI/Content/Blueprint/AI/BP_AIActor.uasset",
+				"C:/Users/ig23/AppData/Local/Development/PEiGAI/Content/Blueprint/AI/BT_AIActor.uasset",
+				"C:/Users/ig23/AppData/Local/Development/PEiGAI/Content/Blueprint/AI/BB_AIActor.uasset",
+				"C:/Users/ig23/AppData/Local/Development/PEiGAI/Content/Blueprint/AI/AIObjects/BP_Work.uasset",
+				"C:/Users/ig23/AppData/Local/Development/PEiGAI/Content/Blueprint/AI/BPI_UpdateAI.uasset",
+				"C:/Users/ig23/AppData/Local/Development/PEiGAI/Content/Blueprint/AI/BPI_initAI.uasset",
+				"C:/Users/ig23/AppData/Local/Development/PEiGAI/Content/Blueprint/AI/AIObjects/BP_Bed.uasset",
+				"C:/Users/ig23/AppData/Local/Development/PEiGAI/Content/Blueprint/AIC_NPC.uasset",
+				"C:/Users/ig23/AppData/Local/Development/PEiGAI/Content/Blueprint/BB_NPCActions.uasset",
+				"C:/Users/ig23/AppData/Local/Development/PEiGAI/Content/Blueprint/BTTask_Work.uasset",
+				"C:/Users/ig23/AppData/Local/Development/PEiGAI/Content/Blueprint/BT_NPCActions.uasset",
+				"C:/Users/ig23/AppData/Local/Development/PEiGAI/Content/Blueprint/BT_AINPC.uasset",
+				"C:/Users/ig23/AppData/Local/Development/PEiGAI/Content/Blueprint/AIC_AINPC.uasset",
+				"C:/Users/ig23/AppData/Local/Development/PEiGAI/Content/Blueprint/BP_AINPC.uasset",
+				"C:/Users/ig23/AppData/Local/Development/PEiGAI/Content/Blueprint/BB_AINPC.uasset",
+				"C:/Users/ig23/AppData/Local/Development/PEiGAI/Content/Blueprint/BTTask_WalkAround.uasset",
+				"C:/Users/ig23/AppData/Local/Development/PEiGAI/Content/Blueprint/BTTask_RestinBed.uasset",
+				"C:/Users/ig23/AppData/Local/Development/PEiGAI/Content/Blueprint/Animations/AIBlendSpace.uasset",
+				"C:/Users/ig23/AppData/Local/Development/PEiGAI/Content/Blueprint/Animations/AB_NPCAIMove.uasset",
+				"C:/Users/ig23/AppData/Local/Development/PEiGAI/Content/Blueprint/BTTask_DoneWithWork.uasset",
+				"C:/Users/ig23/AppData/Local/Development/PEiGAI/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/BN/LKN4IB4C3UPW62GHBEKTIW.uasset",
+				"C:/Users/ig23/AppData/Local/Development/PEiGAI/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/UM/1F7R5WQFM2D9KH7A94JFBU.uasset",
+				"C:/Users/ig23/AppData/Local/Development/PEiGAI/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/6V/AV0JKCFBVPU58UEBGB0GC0.uasset",
+				"C:/Users/ig23/AppData/Local/Development/PEiGAI/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/XH/SKCKQTQDTE8ZNW6C0FCBRO.uasset",
+				"C:/Users/ig23/AppData/Local/Development/PEiGAI/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/XM/SN8KJL01L24VVIYC52MNFR.uasset",
+				"C:/Users/ig23/AppData/Local/Development/PEiGAI/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/CQ/I205QOSSXONYWBP69RVMVA.uasset",
+				"C:/Users/ig23/AppData/Local/Development/PEiGAI/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/9R/UKIMD8EYGPZFS8OC6GX24A.uasset",
+				"C:/Users/ig23/AppData/Local/Development/PEiGAI/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/TR/9AY7TBX61Y507HP3BSXNT6.uasset",
+				"C:/Users/ig23/AppData/Local/Development/PEiGAI/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/IX/A6TC9EOEXPES8TPS7ON8BN.uasset",
+				"C:/Users/ig23/AppData/Local/Development/PEiGAI/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/SK/PED88ZKKXSINT9T9P5U1B6.uasset",
+				"C:/Users/ig23/AppData/Local/Development/PEiGAI/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/VW/0OLXKG9B0824YUWJ2DORO3.uasset",
+				"C:/Users/ig23/AppData/Local/Development/PEiGAI/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/JF/19YZYQOC42LQXMLJ0X5M31.uasset",
+				"C:/Users/ig23/AppData/Local/Development/PEiGAI/Content/ThirdPerson/Lvl_ThirdPerson.umap",
+				"C:/Users/ig23/AppData/Local/Development/PEiGAI/Content/Blueprint/BTTask_GoToBed.uasset",
+				"C:/Users/ig23/AppData/Local/Development/PEiGAI/Content/Blueprint/BTTask_GoToWork.uasset",
+				"C:/Users/ig23/AppData/Local/Development/PEiGAI/Content/Blueprint/BTTask_DoWork.uasset"
+			]
+		}
+	]
+}
